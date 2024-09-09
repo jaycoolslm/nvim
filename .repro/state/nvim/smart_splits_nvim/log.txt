@@ -1,0 +1,1 @@
+[Sat  7 Sep 07:53:33 2024][smart-splits.nvim] Auto-detected multiplexer back-end: none

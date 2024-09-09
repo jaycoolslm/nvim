@@ -1,0 +1,2 @@
+[INFO  Sat  7 Sep 07:53:34 2024] ...pro/plugins/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=sqls) {}
+[ERROR Sat  7 Sep 07:53:34 2024] ...pro/plugins/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=sqls) error=spawn: go failed with exit code - and signal -. go is not executable
