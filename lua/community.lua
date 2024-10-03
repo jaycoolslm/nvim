@@ -18,6 +18,7 @@ return {
   { import = "astrocommunity.pack.svelte" },
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.xml" },
   { import = "astrocommunity.editing-support.chatgpt-nvim" },
   -- import/override with your plugins folder
 }
