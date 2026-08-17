@@ -10,7 +10,6 @@ return {
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.bash" },
-  { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.mdx" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.rust" },
