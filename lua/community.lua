@@ -13,11 +13,10 @@ return {
   { import = "astrocommunity.pack.mdx" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.rust" },
-  { import = "astrocommunity.pack.sql" },
-  { import = "astrocommunity.pack.svelte" },
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.xml" },
   { import = "astrocommunity.recipes.vscode" },
+  { import = "astrocommunity.markdown-and-latex.markview-nvim" },
   -- import/override with your plugins folder
 }
